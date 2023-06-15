@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.write('## About')
+st.markdown('## About')
 
-st.write('* streamlit')
+st.markdown('* streamlit')
